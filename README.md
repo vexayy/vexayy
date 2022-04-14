@@ -10,6 +10,8 @@
 
 ### Frameworks that I'm using:
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-61DAFB?style=for-the-badge&logo=Node.js&logoColor=white" />
 
 ### Databases That I'm implementing in my projects:
 
