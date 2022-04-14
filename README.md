@@ -1,4 +1,4 @@
-### Hi there, I'm Oskar - aka vexayy 👋
+### Hi there, I'm vexayy 👋
 
 ### Languages that I'm using:
 
