@@ -11,6 +11,7 @@
 ### Databases That I'm implementing in my projects:
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=sqlite&logoColor=4EA94B" />
 
 ### Programming IDE that I'm using:
 
