@@ -30,7 +30,7 @@ public class About extends Me {
     }
 
     public String getFutureGoal() {
-        return "Maybe learn Golang.";
+        return "Learn Golang.";
     }
 }
 ```
