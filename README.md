@@ -17,6 +17,7 @@ public class About extends Me {
         knowledge.add("python");
         knowledge.add("html");
         knowledge.add("css");
+        knowledge.add("php");
         return knowledge;
     }
 
@@ -24,13 +25,14 @@ public class About extends Me {
         List<String> frameworks = new ArrayList<>();
         frameworks.add("spring");
         frameworks.add("flask");
+        frameworks.add("django");
         frameworks.add("react");
         frameworks.add("next");
         return frameworks;
     }
 
     public String getFutureGoal() {
-        return "Learn Golang.";
+        return "kill myself.";
     }
 }
 ```
